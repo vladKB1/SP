@@ -1,0 +1,4 @@
+﻿  eigth.cpp
+C:\Users\Vlad\Desktop\University\5_sem\SP\8\eigth\eigth.cpp(67,13): warning C4477: 'sprintf' : format string '%p' requires an argument of type 'void *', but variadic argument 3 has type 'DWORD'
+C:\Users\Vlad\Desktop\University\5_sem\SP\8\eigth\eigth.cpp(252,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  eigth.vcxproj -> C:\Users\Vlad\Desktop\University\5_sem\SP\8\Debug\eigth.exe
