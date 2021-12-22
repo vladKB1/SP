@@ -1,0 +1,10 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(510,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (check1.vcxproj, lab1.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  lab2-3.cpp
+C:\Users\Vlad\Desktop\University\5_sem\SP\2-3\check1\check1\lab2-3.cpp(204,1): warning C4312: 'type cast': conversion from 'LONG' to 'HINSTANCE' of greater size
+C:\Users\Vlad\Desktop\University\5_sem\SP\2-3\check1\check1\lab2-3.cpp(218,1): warning C4312: 'type cast': conversion from 'LONG' to 'HINSTANCE' of greater size
+C:\Users\Vlad\Desktop\University\5_sem\SP\2-3\check1\check1\lab2-3.cpp(237,1): warning C4312: 'type cast': conversion from 'LONG' to 'HINSTANCE' of greater size
+C:\Users\Vlad\Desktop\University\5_sem\SP\2-3\check1\check1\lab2-3.cpp(275,38): warning C4244: '=': conversion from 'LRESULT' to 'int', possible loss of data
+C:\Users\Vlad\Desktop\University\5_sem\SP\2-3\check1\check1\lab2-3.cpp(300,38): warning C4244: '=': conversion from 'LRESULT' to 'int', possible loss of data
+C:\Users\Vlad\Desktop\University\5_sem\SP\2-3\check1\check1\lab2-3.cpp(340,38): warning C4244: '=': conversion from 'LRESULT' to 'int', possible loss of data
+C:\Users\Vlad\Desktop\University\5_sem\SP\2-3\check1\check1\lab2-3.cpp(196,17): warning C4101: 'ps': unreferenced local variable
+  check1.vcxproj -> C:\Users\Vlad\Desktop\University\5_sem\SP\2-3\check1\x64\Debug\lab2-3.exe

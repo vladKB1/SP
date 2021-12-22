@@ -1,0 +1,3 @@
+﻿  Client.cpp
+C:\Users\Vlad\Desktop\University\5_sem\SP\5\Client\Client\Client.cpp(6,1): warning C4326: return type of 'main' should be 'int' instead of 'DWORD'
+  Client.vcxproj -> C:\Users\Vlad\Desktop\University\5_sem\SP\5\Client\Debug\Client.exe
